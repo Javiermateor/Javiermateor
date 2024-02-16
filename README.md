@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateo</h1>
 <h3 align="center">A passionate machine learning/python programmer in Berlin</h3>
 
-- 🔭 I’m currently working on [KIKA-IPK](https://www.tu.berlin/iat/forschung/projekte/kika-ipk)
+- 🔭 I’m currently working on [KIKA-IPK](https://www.tu.berlin/iat/forschung/projekte/kika-ipk) in a research group at TU Berlin and also on [Sesim]([https://www.tu.berlin/iat/forschung/projekte/kika-ipk](https://www.fraunhofer.de/de/presse/presseinformationen/2022/oktober-2022/selbstvalidierung-von-komplexen-elektronischen-systemen-durch-grey-box-modelle.html)) at Siemens.
 
 - 🌱 I’m currently learning **Robotics, Time Series Analysis models, LLM, Plotly Dash**
 
