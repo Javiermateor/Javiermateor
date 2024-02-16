@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Robotics, Time Series Analysis models, LLM, Plotly Dash**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Javiermateor](https://github.com/Javiermateor). Not everything my code is to see since it is closed source :/.
+- 👨‍💻 All of my projects are available at [https://github.com/Javiermateor](https://github.com/Javiermateor). Not everything my code is here since it is closed source :/.
 
 - 📫 How to reach me **mateo-javier.romero-auqui@siemens.com**
 
