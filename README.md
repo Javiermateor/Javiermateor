@@ -1,15 +1,9 @@
 <!-- Greeting -->
-<h1 align="center">Hi there, I'm Mateo Romero 👋😄</h1>
+<h1 align="center">Hi there, I'm Mateo 👋😄</h1>
 
 <!--Introduction -->
 <p align="center">
 I'm a passionate <strong>Machine Learning Engineer & Python Developer</strong> based in Berlin 🌍. I love solving complex problems, developing cutting-edge technology, and sharing knowledge through open-source projects. 
-
-Feel free to ⭐️ my repositories if you find them interesting. Your star could make my day! 🙏
-</p>
-
-<p align="center">
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="50"> <em><b>I love connecting with new people—don't hesitate to reach out!</b> 😊</em>
 </p>
 
 <!-- Badges -->
@@ -45,13 +39,5 @@ Feel free to ⭐️ my repositories if you find them interesting. Your star coul
   <img src="https://skillicons.dev/icons?i=python,cpp,matlab,pytorch,tensorflow,scikit,pandas,opencv,react,flask,django,kafka,html,css,js,mysql,aws,git,docker,arduino,illustrator,photoshop" />
 </p>
 
-### 💡 Fun Fact
-I enjoy discovering and mastering new programming paradigms every single day!
 
----
 
-<h4 align="center">Thanks for stopping by! 🌟</h4>
-
----
-
-<p align="center">⭐️ Crafted with passion from Berlin ⭐️</p>
