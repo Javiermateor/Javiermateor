@@ -1,57 +1,57 @@
-<h1 align="center">Hey there, I'm Mateo 👋</h1>
+<!-- Greeting -->
+<h1 align="center">Hi there, I'm Mateo Romero 👋😄</h1>
 
-<h3 align="center">Machine Learning & Python Developer based in Berlin 🚀</h3>
-
----
-
+<!--Introduction -->
 <p align="center">
-  💻 Currently involved in cutting-edge projects at <strong>TU Berlin</strong> and <strong>Siemens</strong>
+I'm a passionate <strong>Machine Learning Engineer & Python Developer</strong> based in Berlin 🌍. I love solving complex problems, developing cutting-edge technology, and sharing knowledge through open-source projects. 
+
+Feel free to ⭐️ my repositories if you find them interesting. Your star could make my day! 🙏
 </p>
 
 <p align="center">
-  🔍 Exploring: <strong>Robotics • Time Series Analysis • LLM • Plotly Dash</strong>
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="50"> <em><b>I love connecting with new people—don't hesitate to reach out!</b> 😊</em>
 </p>
 
----
-
-<h2 align="center">🚧 Current Projects 🚧</h2>
-
-<p align="center">
-  <a href="https://www.tu.berlin/iat/forschung/projekte/kika-ipk">
-    <img alt="KIKA-IPK" src="https://img.shields.io/badge/KIKA_IPK-Research-blue?style=for-the-badge&logo=academia&logoColor=white"/>
-  </a>
-  <a href="https://www.fraunhofer.de/de/presse/presseinformationen/2022/oktober-2022/selbstvalidierung-von-komplexen-elektronischen-systemen-durch-grey-box-modelle.html">
-    <img alt="Sesim" src="https://img.shields.io/badge/Sesim-Siemens-green?style=for-the-badge&logo=siemens&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<h2 align="center">🛠 Tech Stack 🛠</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikit,pandas,opencv,react,flask,django,kafka,mysql,aws,arduino,git,matlab,html,css,js,illustrator,photoshop" />
-</p>
-
----
-
-<h2 align="center">📫 Let's Connect!</h2>
-
+<!-- Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/mateo-r-964066139">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mateo_Romero-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Mateo%20Romero-blue?style=flat&logo=Linkedin&logoColor=white" />
   </a>
   <a href="mailto:mateo-javier.romero-auqui@siemens.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-mateo--javier.romero--auqui%40siemens.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Javiermateor">
+    <img src="https://img.shields.io/badge/-Javiermateor-black?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
 
+<!-- Profile View Count -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Javiermateor&style=flat" />
+</p>
+
+<!-- About me -->
+### 💼 Currently Working On
+- 🔭 Projects at **TU Berlin** ([KIKA-IPK](https://www.tu.berlin/iat/forschung/projekte/kika-ipk)) & **Siemens** ([Sesim](https://www.fraunhofer.de/de/presse/presseinformationen/2022/oktober-2022/selbstvalidierung-von-komplexen-elektronischen-systemen-durch-grey-box-modelle.html)).
+- 🌱 Learning **Robotics, Time Series Analysis, LLMs, and Plotly Dash**.
+
+### 🌟 Personal Goals & Challenges
+- 📚 Deepen knowledge in **advanced ML techniques**.
+- 🚀 Regularly contribute to **open-source projects**.
+- 💪 Maintain a balanced lifestyle with regular **coding sessions**, **workouts**, and minimal distractions.
+
+### 🛠 Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,pytorch,tensorflow,scikit,pandas,opencv,react,flask,django,kafka,html,css,js,mysql,aws,git,docker,arduino,illustrator,photoshop" />
+</p>
+
+### 💡 Fun Fact
+I enjoy discovering and mastering new programming paradigms every single day!
+
 ---
 
-<h3 align="center">💡 Fun Fact</h3>
-
-<p align="center">I love coding so much, I'm excited to learn new programming paradigms every single day!</p>
+<h4 align="center">Thanks for stopping by! 🌟</h4>
 
 ---
 
-⭐️ From Berlin with passion ⭐️
+<p align="center">⭐️ Crafted with passion from Berlin ⭐️</p>
