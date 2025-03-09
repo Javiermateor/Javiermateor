@@ -1,137 +1,57 @@
-<h1 align="center">Hi 👋, I'm Mateo</h1>
-<h3 align="center">A passionate machine learning/python programmer in Berlin</h3>
+<h1 align="center">Hey there, I'm Mateo 👋</h1>
 
-- 🔭 I’m currently working on [KIKA-IPK](https://www.tu.berlin/iat/forschung/projekte/kika-ipk) in a research group at TU Berlin and also on [Sesim](https://www.fraunhofer.de/de/presse/presseinformationen/2022/oktober-2022/selbstvalidierung-von-komplexen-elektronischen-systemen-durch-grey-box-modelle.html) at Siemens.
+<h3 align="center">Machine Learning & Python Developer based in Berlin 🚀</h3>
 
-- 🌱 I’m currently learning **Robotics, Time Series Analysis models, LLM, Plotly Dash**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/Javiermateor](https://github.com/Javiermateor). Not everything my code is here since it is closed source :/.
-
-- 📫 How to reach me **mateo-javier.romero-auqui@siemens.com**
-
-- ⚡ Fun fact **I am really passionate to write code and learn new paradigmas everyday**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mateo-r-964066139/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateo romero" height="30" width="40" />
-</a>
+<p align="center">
+  💻 Currently involved in cutting-edge projects at <strong>TU Berlin</strong> and <strong>Siemens</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Web Development Tools -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
+<p align="center">
+  🔍 Exploring: <strong>Robotics • Time Series Analysis • LLM • Plotly Dash</strong>
+</p>
 
-  <!-- Backend Development Tools -->
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
-  </a>
+---
 
-  <!-- Database Tools -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
+<h2 align="center">🚧 Current Projects 🚧</h2>
 
-  <!-- Data Science and Machine Learning Tools -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+<p align="center">
+  <a href="https://www.tu.berlin/iat/forschung/projekte/kika-ipk">
+    <img alt="KIKA-IPK" src="https://img.shields.io/badge/KIKA_IPK-Research-blue?style=for-the-badge&logo=academia&logoColor=white"/>
   </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-
-  <!-- Programming Languages -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-
-  <!-- Other Tools and Technologies -->
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+  <a href="https://www.fraunhofer.de/de/presse/presseinformationen/2022/oktober-2022/selbstvalidierung-von-komplexen-elektronischen-systemen-durch-grey-box-modelle.html">
+    <img alt="Sesim" src="https://img.shields.io/badge/Sesim-Siemens-green?style=for-the-badge&logo=siemens&logoColor=white"/>
   </a>
 </p>
 
+---
 
-<p align="left">
-  <!-- Database Tools -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
+<h2 align="center">🛠 Tech Stack 🛠</h2>
 
-  <!-- Machine Learning & Data Science Tools -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikit,pandas,opencv,react,flask,django,kafka,mysql,aws,arduino,git,matlab,html,css,js,illustrator,photoshop" />
+</p>
 
-  <!-- Image Processing -->
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
+---
 
-  <!-- Graphic Design -->
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
+<h2 align="center">📫 Let's Connect!</h2>
 
-  <!-- Programming Languages -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mateo-r-964066139">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mateo_Romero-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
-  <!-- Web Development -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <a href="mailto:mateo-javier.romero-auqui@siemens.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-mateo--javier.romero--auqui%40siemens.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
+---
+
+<h3 align="center">💡 Fun Fact</h3>
+
+<p align="center">I love coding so much, I'm excited to learn new programming paradigms every single day!</p>
+
+---
+
+⭐️ From Berlin with passion ⭐️
