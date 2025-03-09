@@ -36,7 +36,7 @@ I'm a passionate <strong>Machine Learning Engineer & Python Developer</strong> b
 
 ### 🛠 Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,pytorch,tensorflow,scikit,pandas,opencv,react,flask,django,kafka,html,css,js,mysql,aws,git,docker,arduino,illustrator,photoshop" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,pytorch,tensorflow,opencv,react,flask,django,kafka,html,css,js,mysql,aws,git,docker,arduino,illustrator,photoshop" />
 </p>
 
 
